@@ -1,0 +1,26 @@
+{
+  "name": "tiempometrojs",
+  "version": "0.0.1",
+  "description": "tiempometro en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZappaGit/tiempometroJS.git"
+  },
+  "author": "zappagit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZappaGit/tiempometroJS/issues"
+  },
+  "homepage": "https://github.com/ZappaGit/tiempometroJS#readme",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
